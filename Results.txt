@@ -1,0 +1,3 @@
+Number of numbers: 200
+Sum of the numbers: 105527
+Average of the numbers: 527.635
